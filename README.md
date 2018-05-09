@@ -74,15 +74,13 @@ Payment:
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Payment.png)
 
-Reviews:
-
-![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Reviews.png)
 
 Track Orders:
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Orders.png)
 
 Chatbot:
+
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Chatbot.png)
 
 
