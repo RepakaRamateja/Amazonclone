@@ -58,6 +58,8 @@ regarding the products and any issues.
 
 </br>
 
+### Mean Stack Architecture
+
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/arc.png)
 
 ### High Level Design Architecture
@@ -117,45 +119,39 @@ regarding the products and any issues.
 
 ## Features:
 
+</br>
 
 Recommended Deals:
 
-</br>
-
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/deals.png)
 
+</br>
 
 Search functionality using Algolia:
 
-</br>
-
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Search.png)
 
+</br>
 
 Cart Functionality:
 
-</br>
-
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/cart.png)
 
+</br>
 
 Payment:
 
-</br>
-
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Payment.png)
 
+</br>
 
 Track Orders:
 
-</br>
-
-
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Orders.png)
 
-Chatbot:
-
 </br>
+
+Chatbot:
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Chatbot.png)
 
