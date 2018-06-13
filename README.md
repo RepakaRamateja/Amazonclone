@@ -69,6 +69,7 @@ regarding the products and any issues.
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/architecture.png)
 
+</br>
 
 ### Technology stack
 
