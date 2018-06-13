@@ -60,6 +60,7 @@ regarding the products and any issues.
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/arc.png)
 
+### High Level Design Architecture
 
 </br>
 
@@ -119,35 +120,42 @@ regarding the products and any issues.
 
 Recommended Deals:
 
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/deals.png)
 
 
 Search functionality using Algolia:
 
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Search.png)
 
 
 Cart Functionality:
 
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/cart.png)
 
 
 Payment:
 
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Payment.png)
 
 
 Track Orders:
 
+</br>
+
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Orders.png)
 
 Chatbot:
 
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/Chatbot.png)
 
