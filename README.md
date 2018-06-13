@@ -1,17 +1,22 @@
-# Amazonclone
+                              #Amazonclone
+
+Ecommerce web application using Angular | Node.js | Express.js | MongoDB   (MEAN Stack)
+
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/homepage.png)
 
+</br>
 
-Users can sign up and log-in into the application using a
-general email-id or through social networking platform such as Facebook. Once logged in, Users will then be able to add products to their cart and then checkout for final shipping. Users can also
-provide review and ratings to the products which they bought. Users can search products based on categories and are made aware of products with special discount offers.
+## Objective:
+• The goal is to build a Ecommerce web application where users can buy and sell products online.
+• The project was developed as Full Stack Web app using technologies such as Angular | Node.js | Express.js | MongoDB (MEAN Stack)
 
-Overview:
+</br>
 
-• Amazon Clone is one of the two modules which was developed as a part of our project.
+## Overview:
 
-• It is a platform form where users can buy products such as books, electronic items, etc.
+• It is a platform  where users can buy products such as books, electronic items, etc.
 
 • Users can register as sellers if they want to sell products on this platform.
 
@@ -39,39 +44,68 @@ regarding the products and any issues.
 
 • Used Mlab for database hosting.
 
-Technologies used:
 
-Front-end: HTML, CSS, Bootstrap, AngularJS
+## System Design
+### Architecture
+• Web Application uses a Client-Server Architecture with:
+  • Client components developed using Angular 4 - Folder - '/client/Angularecommerce'   
+  • Server Restful Api's developed using Node.js, Express.js, MongoDB - Folder - '/server'
 
-Back-end: NodeJS, ExpressJS, MongoDB, Stripe
+![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/arc.png)
 
-Data-Base service: Mlab
+</br>
 
-
-HTML: Hyper Text Markup Language is used to create the main structure of a webpage,
-which outlines the important components in the webpage which we see.
-CSS: Cascading Style Sheets is used to define styles of HTML. All the styles, which we see on the webpage can be given credit to CSS.
-
-Bootstrap: CSS and Java Script library. It is a free and open source front end library for designing web applications. Bootstrap has some pre-defined styles, which we can use directly by copying the respective code.
-
-
-AngularJS: AngularJS is a Java Script based front-end web development framework. It is very useful to create single-page applications. AngularJS was developed by Google.
-
-NodeJS: NodeJS is an open-source and cross-platform Java Script run-time environment which executes JavaScript code server-side.
-
-ExpressJS: It is a web application framework, which is used for NodeJS. ExpressJS can be used for designing web applications and APIs.
-
-MongoDB: MongoDB is an open-source, cross platform database system. It is a No-SQL database and uses Java Script Object Notation -like documents with schemas.
-
-Stripe: Stripe is the payment processing API which we used here.
-
-Mlab: mLab is a fully managed cloud database service that hosts MongoDB databases.
-
-
-Architecture:
-
-
+### Application Architecture
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/architecture.png)
+
+
+### Technology stack
+
+[alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/stack.png)
+
+
+</br>
+
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Front-End</td>
+		<td>Angular, Bootstrap, HTML5, CSS3, Typescript</td>
+	</tr>
+	<tr>
+		<td>Back-End</td>
+		<td>Express, Node.js</td>
+	</tr>
+  <tr>
+		<td>Authentication</td>
+		<td>JWT(JSON Web Tokens)</td>
+	</tr>
+	<tr>
+		<td>API Testing</td>
+		<td>Postman</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>MongoDB(Mlab Cloud Service)</td>
+	</tr>
+  <tr>
+		<td>Images Storage</td>
+		<td>Amazon AWS-S3</td>
+	</tr>
+    <tr>
+		<td>Other APIs Used</td>
+		<td>Stripe Payment, Algolia Search</td>
+	</tr>
+</tbody>
+</table>
+
+</br>
 
 Features:
 
