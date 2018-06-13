@@ -3,7 +3,7 @@
 
 </br>
 
-![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/homepage.png)
+![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/home.png)
 
 </br>
 
