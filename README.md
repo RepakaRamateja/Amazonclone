@@ -52,9 +52,9 @@ regarding the products and any issues.
 
 • Web Application uses a Client-Server Architecture with:
 
-    • Client components developed using Angular 4 - Folder - '/client/Angularecommerce'  
+      Client components developed using Angular 4 - Folder - '/client/Angularecommerce'  
 
-    • Server Restful Api's developed using Node.js, Express.js, MongoDB - Folder - '/server'
+      Server Restful Api's developed using Node.js, Express.js, MongoDB - Folder - '/server'
 
 </br>
 
