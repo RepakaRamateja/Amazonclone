@@ -46,22 +46,27 @@ regarding the products and any issues.
 
 
 ## System Design
+
 ### Architecture
+
 • Web Application uses a Client-Server Architecture with:
-  • Client components developed using Angular 4 - Folder - '/client/Angularecommerce'   
+
+  • Client components developed using Angular 4 - Folder - '/client/Angularecommerce'  
+
   • Server Restful Api's developed using Node.js, Express.js, MongoDB - Folder - '/server'
+
+</br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/arc.png)
 
 </br>
 
-### Application Architecture
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/architecture.png)
 
 
 ### Technology stack
 
-[alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/stack.png )
+![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/stack.png )
 
 
 </br>
@@ -107,7 +112,7 @@ regarding the products and any issues.
 
 </br>
 
-Features:
+## Features:
 
 
 Recommended Deals:
