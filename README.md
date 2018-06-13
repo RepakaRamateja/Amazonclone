@@ -1,6 +1,5 @@
-                              #Amazonclone
+                                     Amazonclone
 
-Ecommerce web application using Angular | Node.js | Express.js | MongoDB   (MEAN Stack)
 
 </br>
 
@@ -9,7 +8,9 @@ Ecommerce web application using Angular | Node.js | Express.js | MongoDB   (MEAN
 </br>
 
 ## Objective:
+
 • The goal is to build a Ecommerce web application where users can buy and sell products online.
+
 • The project was developed as Full Stack Web app using technologies such as Angular | Node.js | Express.js | MongoDB (MEAN Stack)
 
 </br>
@@ -58,6 +59,7 @@ regarding the products and any issues.
 </br>
 
 ![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/arc.png)
+
 
 </br>
 
